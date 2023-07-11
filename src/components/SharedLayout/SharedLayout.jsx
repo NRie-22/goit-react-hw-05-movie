@@ -22,13 +22,13 @@ export const SharedLayout = () => {
             <Icon role="img" aria-label="camera icon">
               🎞️
             </Icon>{' '}
-            Сinema search
+            CINEMA SEARCH
           </Logo>
           <nav>
             <Link to="/" end>
-              Home
+              HOME
             </Link>
-            <Link to="/movies">Movies</Link>
+            <Link to="/movies">MOVIES</Link>
           </nav>
         </HeaderContainer>
       </Header>
@@ -38,7 +38,7 @@ export const SharedLayout = () => {
         </Suspense>
       </Container>
       <Footer>
-        <Info>Copyright © 2023</Info>
+        <Info>2023</Info>
         <Info>
           Thanks for API <API>themoviedb.org</API>
         </Info>
