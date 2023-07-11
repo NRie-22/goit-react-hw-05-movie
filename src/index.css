@@ -1,4 +1,4 @@
-@import-normalize; /* bring in normalize.css styles */
+@import url('normalize.css');/* bring in normalize.css styles */
 
 body {
   margin: 0;
@@ -7,9 +7,21 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  position: relative;
+  min-height: 100vh;
+}
+html,
+body {
+  height: 100%;
+  margin: 0;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+a {
+  text-decoration: none;
+  color: black;
+  cursor: pointer;
 }
