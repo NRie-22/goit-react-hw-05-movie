@@ -38,7 +38,7 @@ export const SharedLayout = () => {
         </Suspense>
       </Container>
       <Footer>
-        <Info>Copyright © 2023. Created by Nataliya Rieger</Info>
+        <Info>Copyright © 2023</Info>
         <Info>
           Thanks for API <API>themoviedb.org</API>
         </Info>

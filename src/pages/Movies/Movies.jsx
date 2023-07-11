@@ -100,10 +100,10 @@ const Movies = () => {
         onSubmit={handleSubmit}
       />
       <Message style={{ visibility: 'hidden', margin: 0, padding: 0 }}>
-        Find movie that you want to watch above......
+        Find movie that you want to watch above
       </Message>
       {firstRender && (
-        <Message>Find movie that you want to watch above...</Message>
+        <Message>Find movie that you want to watch above</Message>
       )}
 
       {/* {loading && <p>Loading...</p>} */}
