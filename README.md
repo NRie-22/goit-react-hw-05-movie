@@ -46,7 +46,6 @@ This project is a React Single Page Application (SPA) named "Cinema Search" with
 ## Screenshots
 
 #### Home Page
-<img src="screenshots/home-page.jpg">
 <img src="screenshots/home-page.jpg" width="600" alt="Home Page">
 
 #### Movie Details
