@@ -8,6 +8,19 @@ This project is a React Single Page Application (SPA) named "Cinema Search" with
 
 ---
 
+## Screenshots
+
+#### Home Page
+<img src="screenshots/home-page.jpg" width="600" alt="Home Page">
+<img src="screenshots/mobile-version.jpg" width="600" alt="Mobile Version">
+#### Movie Details
+<img src="screenshots/movie-details.jpg" width="600" alt="Movie Details">
+
+#### Search Page
+<img src="screenshots/search-page.jpg" width="600" alt="Search Page">
+
+---
+
 ## Features
 
 - Search for movies by title or genre
@@ -40,19 +53,6 @@ This project is a React Single Page Application (SPA) named "Cinema Search" with
 1. On the homepage, use the search bar to search for movies by title or genre.
 2. Click on a movie card to view its details.
 3. Navigate between different pages using the navigation menu or back/forward buttons.
-
----
-
-## Screenshots
-
-#### Home Page
-<img src="screenshots/home-page.jpg" width="600" alt="Home Page">
-
-#### Movie Details
-<img src="screenshots/movie-details.jpg" width="600" alt="Movie Details">
-
-#### Search Page
-<img src="screenshots/search-page.jpg" width="600" alt="Search Page">
 
 ---
 
