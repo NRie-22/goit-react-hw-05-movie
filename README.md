@@ -1,4 +1,4 @@
-# React Homework: SPA "Cinema Search" with Routing
+# React: SPA "Cinema Search" with Routing
 
 ---
 
@@ -28,11 +28,10 @@ This project is a React Single Page Application (SPA) named "Cinema Search" with
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/cinema-search.git`
-2. Navigate to the project directory: `cd cinema-search`
-3. Install dependencies: `npm install`
-4. Start the development server: `npm start`
-5. Open `http://localhost:3000` in your browser to view the application
+1. Clone the repository: `git clone https://github.com/NRie-22/goit-react-hw-05-movies?tab=readme-ov-file`
+2. Install dependencies: `npm install`
+3. Start the development server: `npm start`
+4. Open `http://localhost:3000` in your browser to view the application
 
 ---
 
@@ -47,6 +46,7 @@ This project is a React Single Page Application (SPA) named "Cinema Search" with
 ## Screenshots
 
 #### Home Page
+<img src="screenshots/home-page.jpg">
 <img src="screenshots/home-page.jpg" width="600" alt="Home Page">
 
 #### Movie Details
