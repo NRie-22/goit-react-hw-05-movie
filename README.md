@@ -47,13 +47,13 @@ This project is a React Single Page Application (SPA) named "Cinema Search" with
 ## Screenshots
 
 #### Home Page
-![Home Page](screenshots/home-page.jpg width="600" alt="home-page")
+<img src="screenshots/home-page.jpg" width="600" alt="Home Page">
 
 #### Movie Details
-![Movie Details](screenshots/search-page.jpg width="600" alt="search-page")
+<img src="screenshots/movie-details.jpg" width="600" alt="Movie Details">
 
-#### Search Results
-![Search Results](screenshots/search-results.jpg width="600 alt="search-results")
+#### Search Page
+<img src="screenshots/search-page.jpg" width="600" alt="Search Page">
 
 ---
 
@@ -65,4 +65,4 @@ Contributions, bug reports, and feature requests are welcome! Feel free to open 
 
 ## Author
 
-Your Name
+Nataliya Rieger
