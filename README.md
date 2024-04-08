@@ -12,7 +12,7 @@ This project is a React Single Page Application (SPA) named "Cinema Search" with
 
 #### Home Page
 <img src="screenshots/home-page.jpg" width="600" alt="Home Page">
-<img src="screenshots/mobile-version.jpg" width="600" alt="Mobile Version">
+
 #### Movie Details
 <img src="screenshots/movie-details.jpg" width="600" alt="Movie Details">
 
