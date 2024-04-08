@@ -1,10 +1,10 @@
-# React: SPA "Cinema Search" with Routing
+# React: SPA "Cinema search" with Routing
 
 ---
 
 ## Description
 
-This project is a React Single Page Application (SPA) named "Cinema Search" with routing. It was developed as a homework assignment to demonstrate knowledge of React.js concepts and implementation of routing within a single page application.
+This project is a React Single Page Application (SPA) named "Cinema search" with routing. It was developed as a homework assignment to demonstrate knowledge of React.js concepts and implementation of routing within a single page application.
 
 ---
 
